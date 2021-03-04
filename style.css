@@ -1,0 +1,73 @@
+/* defult marign removed*/
+body
+{
+	margin: 0;
+}
+
+/* heading : Music and fun*/
+.header{
+    background: #345;
+    color: #fff;
+    font-size: 60px;
+    text-align: center;
+    padding: 20px;
+    border: solid #345;
+}
+
+
+/*Recently played*/
+h3
+{
+	font-size: 40px;
+}
+
+/*songs images*/
+.list{
+/*	border: solid red;
+*/	display: flex;
+	/*margin: 0 10px 0 0;*/
+}
+
+img{
+	/*border: solid green;*/
+	margin: 0 10px 5px 0;
+	/*padding-right: 10px; */
+}
+
+/*songs links*/
+.links{
+	display: flex;
+/*	padding: 0 10px ;
+*/	text-align: center;
+	/*background: #345;*/
+	/*border: solid red;*/
+	margin: 0 0 30px 0; 
+}
+
+.link{
+	display: flex;
+	background:#345;
+	text-align: center;
+	font-size: 16px;
+	padding: 10px;
+/*	border: solid red;
+*/	margin: 0 161px 0 0; 
+}
+
+
+
+/*Color of links*/
+a{
+    color: #fff;
+    /*margin: 0 10px 0 0;*/
+}
+
+/*footer*/
+.comments{
+	background: #345;
+    color: #fff;
+    font-size: 60px;
+    text-align: center;
+    padding: 20px;
+    border: solid #345;
+}
