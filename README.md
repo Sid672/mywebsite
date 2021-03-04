@@ -4,6 +4,6 @@
 ![](https://github.com/Sid672/mywebsite/blob/main/website_look.PNG)
 
 ## Demo link:
-[Link](https://repl.it/@Siddharthsing13/mywebsite#index.html)
+[Link](https://mywebsite.siddharthsing13.repl.co/)
 
 
