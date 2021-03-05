@@ -1,5 +1,5 @@
 # mywebsite
-### My first website. It will better in future.
+### My first website. It will be better in future.
 
 ![](https://github.com/Sid672/mywebsite/blob/main/website_look.PNG)
 
