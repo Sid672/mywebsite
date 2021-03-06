@@ -3,7 +3,7 @@
 
 ![](https://github.com/Sid672/mywebsite/blob/main/website_look.PNG)
 
-## Demo link:
+## Website link:
 [Link](https://mywebsite.siddharthsing13.repl.co/)
 
 
